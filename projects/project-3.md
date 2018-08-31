@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kali.jpg
+image: images/kali.png
 title: Learning Kali Linux
 permalink: projects/kali
 # All dates must be YYYY-MM-DD format!

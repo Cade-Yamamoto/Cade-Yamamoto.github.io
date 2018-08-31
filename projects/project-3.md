@@ -12,7 +12,7 @@ labels:
 summary: Ethical hacking and offensive security
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/kali.jpg">
+<img class="ui image" src="{{ site.baseurl }}/images/kali.png">
 
 Kali Linux is an open source debian-based Linux distro that was designed for penetration testing and digital forensics. Kali Linux comes pre-installed with many tools used to test the strength of security systems.
 

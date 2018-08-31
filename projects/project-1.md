@@ -20,6 +20,8 @@ As a final project for my ICS 111 class, my group and I created a simple two-pla
 
 During the development of the game, I primarily worked on the bullet physics, player controls, weapon controls/spawning, and the main user interface. Most of the development was done in the span of a few weeks and the graphics were created using the EZGraphics Java library provided to us. 
 
+Through this project, I gained experience in group development and creating larger projects in a timely manner. I also improved my Java coding skills by working on this project.
+
 You can view a short gameplay video here: (https://www.youtube.com/watch?v=-kvfI1Ywa0I).
 
 

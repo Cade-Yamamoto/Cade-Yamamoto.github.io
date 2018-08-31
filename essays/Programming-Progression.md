@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: Scratch, Python, Java, Javascript: My Programming Progression
+title: Scratch, Python, Java, Javascript - My Programming Progression
 # All dates must be YYYY-MM-DD format!
 date: 2018-08-30
 labels:

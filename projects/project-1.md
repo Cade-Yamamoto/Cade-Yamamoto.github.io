@@ -11,10 +11,7 @@ labels:
   - Java
 summary: My team and I developed a simple two-player shooter in Java for ICS 111.
 ---
-
-<div class="ui large rounded images">
-  <img class="ui image" src="../images/arenaGame.PNG">
-</div>
+<img class="ui medium right floated rounded image" src="../images/arenaGame.jpg">
  
 As a final project for my ICS 111 class, my group and I created a simple two-player shooter game in Java. The objective of the game is to lower your opponent's health to 0 by picking up weapons around the map and shooting your opponent. This simple game uses a single keyboard to control each character, allowing both players to play on one computer at the same time.
 

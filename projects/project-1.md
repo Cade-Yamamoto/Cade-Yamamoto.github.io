@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/arenaLogo.PNG
+image: images/arenaLogo.png
 title: Arena Game
 permalink: projects/arenagame
 # All dates must be YYYY-MM-DD format!

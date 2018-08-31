@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-<img class="ui tiny left circular floated image" src="../images/scratch.png">
+<img class="ui large left circular floated image" src="../images/scratch.png">
 
 When I decided to pursue the field of computer science and later cyber security, I started learning how to code with a very basic language used to teach people the basics of programming: Scratch. From my experience with Scratch, I started to look at programming in a global scope. I realized that there are far more applications that simple logic-based blocks have then I initially imagined. After creating very simple programs, I started to learn Python.
 
@@ -18,7 +18,7 @@ When I decided to pursue the field of computer science and later cyber security,
 
 My first exposure to Python left me confused and later, intrigued. Since I started coding with simple blocks, the exposure to text based code was intimidating at first. After taking a class in high school from a very inspirational teacher, I quickly caught on to the simplicity and ease of use that Python provided users. From that experience, I started to write simple Python programs that made my high school experience easier such as homework planners and advanced calculators.
 
-<img class="ui tiny left circular floated image" src="../images/jsworld.png">
+<img class="ui large left circular floated image" src="../images/jsworld.png">
 
 The first required ICS class at UH Manoa, ICS 111, was my first exposure to the Java programming language. Since I already knew how to code in python, learning the basics of Java was a simple task. With a few changes in syntax and the introduction of curly braces and semi-colons, I caught on the Java fairly quickly. But, once I started to learn more Java, I realized that everything in Java is an object, a concept that I only learned very breifly in my Python course. After a lot of practice, I started to understand the concepts of data structures which I then implemented in Java.
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/arenaGame.png
+image: images/arenaGame.PNG
 title: Arena Game
 permalink: projects/arenagame
 # All dates must be YYYY-MM-DD format!
@@ -11,7 +11,7 @@ labels:
   - Java
 summary: My team and I developed a simple two-player shooter in Java for ICS 111.
 ---
-<img class="ui large right floated rounded image" src="../images/arenaGame.png">
+<img class="ui large right floated rounded image" src="../images/arenaGame.PNG">
  
 As a final project for my ICS 111 class, my group and I created a simple two-player shooter game in Java. The objective of the game is to lower your opponent's health to 0 by picking up weapons around the map and shooting your opponent. This simple game uses a single keyboard to control each character, allowing both players to play on one computer at the same time.
 

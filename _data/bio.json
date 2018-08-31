@@ -6,7 +6,7 @@
     "email": "cadehy@hawaii.edu",
     "phone": "808-342-5906",
     "website": "https://cYamamoto96789.github.io",
-    "summary": "I am a computer science B.S. major at UH Manoa hoping to specialize in cyber security.",
+    "summary": "I am a computer science B.S. major at UH Manoa hoping to specialize in cyber security. I am expected to graduate in Spring 2021.",
     "location": {
       "address": "95-1031 Meapa St.",
       "postalCode": "96789",
@@ -40,6 +40,11 @@
       "keywords": [
         "Ubuntu",
         "Debian"
+      ]
+    },
+    {
+      "name": "Gaming",
+      "keywords": [
       ]
     }
   ],

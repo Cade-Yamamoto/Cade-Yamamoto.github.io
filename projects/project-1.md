@@ -12,7 +12,7 @@ labels:
 summary: My team and I developed a simple two-player shooter in Java for ICS 111.
 ---
 
-<div class="ui medium rounded images">
+<div class="ui large rounded images">
   <img class="ui image" src="../images/arenaGame.PNG">
 </div>
  

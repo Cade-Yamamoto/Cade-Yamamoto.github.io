@@ -14,7 +14,7 @@ labels:
 
 When I decided to pursue the field of computer science and later cyber security, I started learning how to code with a very basic language used to teach people the basics of programming: Scratch. From my experience with Scratch, I started to look at programming in a global scope. I realized that there are far more applications that simple logic-based blocks have then I initially imagined. After creating very simple programs, I started to learn Python.
 
-<img class="ui tiny left circular floated image" src="../images/python.png">
+<img class="ui large left circular floated image" src="../images/python.png">
 
 My first exposure to Python left me confused and later, intrigued. Since I started coding with simple blocks, the exposure to text based code was intimidating at first. After taking a class in high school from a very inspirational teacher, I quickly caught on to the simplicity and ease of use that Python provided users. From that experience, I started to write simple Python programs that made my high school experience easier such as homework planners and advanced calculators.
 

@@ -10,7 +10,7 @@ labels:
   - Software Engineering
 ---
 
-As a programmer, I have encountered many code styles and formats. Due to the nature of many popular high-level languages, there is no specific code formatting requirements other than syntax. The user has the option to type everything in one line, one thing on many lines, draw pictures with their text, or make add random gaps between portions of code. When I started learning how to code, the format of code wasn’t an issue for many of my peers. The tasks that were provided to them were simple and only required a few lines of code so the way it looked didn’t seem like anything important. I’m sure that all programmers have at least once in their programming career have seen code as atrocious as this one:
+As a programmer, I have encountered many code styles and formats. Due to the nature of many popular high-level languages, there is no specific code formatting requirements other than syntax. The user has the option to type everything in one line, one thing on many lines, draw pictures with their text, or make add random gaps between portions of code. When I started learning how to code, the format of code wasn’t an issue for many of my peers. The tasks that were provided to them were simple and only required a few lines of code so the way it looked didn’t seem like anything important. I’m sure that all programmers have, at least once in their programming career, seen code as atrocious as this one:
 
 <img class="ui larger center image" src="../images/badCode1.jpg">
 

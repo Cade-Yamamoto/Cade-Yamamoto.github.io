@@ -14,7 +14,7 @@ As a programmer, I have encountered many code styles and formats. Due to the nat
 
 <img class="ui larger center circular floated image" src="../images/badCode1.jpg">
 
-Ok, maybe not THAT atrocious, but the idea is still there. Code style really does matter, not just to quell your undiagnosed OCD, but also for the benefit of all the people that must read the code.
+Ok, maybe not THAT atrocious, but the idea is still there. Code style really does matter, not just to quell your inner OCD, but also for the benefit of all the people that must read the code.
 
 Although some may claim that code style isn’t that important if others aren’t going to read it, find old code from months or years back and try to decipher exactly what the code is doing without running it. For programmers who write beautifully formatted lines of code that are easy to understand, the task can be completed in constant time. But, if your code looks like a bunch of jumbled up words, this process can take exponential time, reading the same line of code again and again, reading the next line of code then realizing you were totally wrong about the previous 10 lines of code do. To the average person, having to do this is a waste of time. But to a tech company, wasting time is a detriment to productivity.
   
@@ -22,7 +22,7 @@ Of course, not everyone writes code like a two-year old with a drawing pad. Some
 
 <img class="ui larger center circular floated image" src="../images/badCode2.PNG">
 
-Most programmers notice the awkward indentation after the “for” before they noticed that the code multiplies numbers using a for-loop rather than just using arithmetic.
+Most programmers notice the awkward indentation after the “for” before they notice that the code multiplies numbers using a for-loop rather than just using arithmetic.
 
 Besides trying to keep other programmers happy, keeping code nicely formatted helps you learn new coding languages. For example, if you are already used to indenting every line of code based on code blocks, learning the syntax of Python becomes easier since code blocks are determined by indentation. If you are used formatting Java code based on specific coding standards, understanding JavaScript becomes much easier.
   

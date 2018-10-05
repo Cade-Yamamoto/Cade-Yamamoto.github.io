@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: UI Frameworks: Putting The "Design" in "Web Design"
+title: UI Frameworks - Putting The "Design" in "Web Design"
 # All dates must be YYYY-MM-DD format!
 date: 2018-10-04
 labels:

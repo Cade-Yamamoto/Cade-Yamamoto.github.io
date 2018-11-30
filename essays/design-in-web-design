@@ -15,12 +15,12 @@ labels:
   
 	When I design the functionality of a site, I often try to encompass both ease of use and distinct purpose. I’m sure we have all seen a website that is extremely crowded and convoluted. Here is a clear example of a site whose purpose is clearly unclear:
 
- <img src="../images/stupidQuestion.PNG" alt="stupid question" height = "600" width = "750">
+	<img class="ui medium center floated image" src="../images/baddesign.jpg">
  
 If a user were to access this site, they would immediately be lost. The combination of obnoxious placement of elements along with the excessive tabs makes this site immediately unattractive to most users. From looking at the landing page for a while, one can eventually tell that the website has to do with travel, but the goal of the website is all over the place. In my opinion, the owner of this website took the idea of “all-in-one” a bit too far.
 	A good example of website functionality and design that I found is coincidentally a website meant to help users design web applications:
   
-   <img src="../images/stupidQuestion.PNG" alt="stupid question" height = "600" width = "750">
+   <img class="ui medium center floated image" src="../images/gooddesign.jpg">
    
   The landing page for this website demonstrates a clean layout that is easy for users to navigate, provides a sense of location when navigating the page since it is immediately clear that the user is on the home page, and demonstrates a clear purpose. When a user accesses this site, they will have no problem figuring out how to start a project and navigate the website since it is all laid out in front of them. In addition, a user can immediate know if the website provides the services they want because information about the site is presented clearly on the landing page.
 
@@ -31,7 +31,7 @@ In practice, I always try to make everything in my websites accessible within tw
   
   Often times, I like to follow a consistent pattern of minimalistic aesthetic design. The less elements there are to look at, the more open and breathable the site becomes. Sometimes, I like to think of a page as a desk and each component of the page are items that you put on the desk. If you put too many things on the desk, it will look messy and it will be hard to find things but if you put only a few things on the desk, there is a lot more open room. An example of minimalistic design in practice is my login page for the Jiffy Jobs web application:
   
-   <img src="../images/stupidQuestion.PNG" alt="stupid question" height = "600" width = "750">
+   <img class="ui medium center floated image" src="../images/login.PNG">
    
   When designing the page, I specifically made the conscious decision to eliminate text boxes as they seemed a bit too clunky and instead opted for dividers to represent each field section. I also decided to center the elements to make the user focus on the few elements and direct them accordingly.
   

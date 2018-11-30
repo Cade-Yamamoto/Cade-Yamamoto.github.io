@@ -3,7 +3,7 @@ layout: essay
 type: essay
 title: Putting the Design in Web Design
 # All dates must be YYYY-MM-DD format!
-date: 2018-11-18
+date: 2018-11-29
 labels:
   - Web Development
   - Aesthetic Design

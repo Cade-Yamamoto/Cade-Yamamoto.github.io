@@ -10,7 +10,6 @@ labels:
   - Software Engineering
 ---
 
-
 	While designing web application, there are two important factors that I always keep in mind: functionality and aesthetic design. In my opinion, successful design patterns must encompass both functionality and looks. A web application that is designed for function without incorporating aesthetics are visually unappealing and typically drives user away from your site. A web application that is designed with aesthetics without function is an empty shell that has no purpose for users. Although design is subjective, there are a few patterns that I try to follow whenever I design a web application.
   
 	When I design the functionality of a site, I often try to encompass both ease of use and distinct purpose. I’m sure we have all seen a website that is extremely crowded and convoluted. Here is a clear example of a site whose purpose is clearly unclear:

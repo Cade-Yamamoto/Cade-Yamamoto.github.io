@@ -1,7 +1,7 @@
 ---
 layout: essay
 type: essay
-title: The Design of Web Design
+title: Putting the Design in Web Design
 # All dates must be YYYY-MM-DD format!
 date: 2018-11-18
 labels:
@@ -27,7 +27,7 @@ If a user were to access this site, they would immediately be lost. The combinat
 	Everytime I work on front-end development, I try to imitate the general design aspects of these sites. I believe that it is important to always question why something is appealing and what makes it appealing. Design patterns are important not only for attracting users, but also providing users with a sense of belonging. If a website is well designed, users are more likely to continue using the site. 
 In practice, I always try to make everything in my websites accessible within two clicks. Many people who browse websites want to find what they need as fast as possible. Forcing a user to search through many things manually is a great way to rapidly decrease site traffic. From my experience, two clicks is the maximum I am willing to go until I feel like the site has way too many tabs and not enough shortcuts.
 
-  Another important aspect of web design that I like to keep in mind is consistency. If a navbar or side menu is constantly moving around or the layout each page is dramatically different than the others, it is easy to get lost in the transforming mess. In addition, a website with far too many different colors is an annoyance to the eye and can cause unnecessary headaches. While designing websites, I try to keep certain components static on each page so the user knows for sure that they can go back to that part of the page. I also try to use a maximum of 3 different colors that complement each other on page. Any more and the website would have too many. In my Jiffy Jobs web application, I specifically used a color gradient as the background to create an appealing yet simple design.
+	Another important aspect of web design that I like to keep in mind is consistency. If a navbar or side menu is constantly moving around or the layout each page is dramatically different than the others, it is easy to get lost in the transforming mess. In addition, a website with far too many different colors is an annoyance to the eye and can cause unnecessary headaches. While designing websites, I try to keep certain components static on each page so the user knows for sure that they can go back to that part of the page. I also try to use a maximum of 3 different colors that complement each other on page. Any more and the website would have too many. In my Jiffy Jobs web application, I specifically used a color gradient as the background to create an appealing yet simple design.
   
   Often times, I like to follow a consistent pattern of minimalistic aesthetic design. The less elements there are to look at, the more open and breathable the site becomes. Sometimes, I like to think of a page as a desk and each component of the page are items that you put on the desk. If you put too many things on the desk, it will look messy and it will be hard to find things but if you put only a few things on the desk, there is a lot more open room. An example of minimalistic design in practice is my login page for the Jiffy Jobs web application:
   

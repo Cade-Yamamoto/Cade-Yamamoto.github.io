@@ -20,6 +20,7 @@ During the development of the game, I primarily worked on the bullet physics, pl
 Through this project, I gained experience in group development and creating larger projects in a timely manner. I also improved my Java coding skills by working on this project.
 
 You can view a short gameplay video <a href="https://github.com/Cade-Yamamoto/coding-projects.git">here</a>
+
 Link to source code: <a href="https://github.com/Cade-Yamamoto/coding-projects.git">Link</a><i class="large github icon" />
 
 

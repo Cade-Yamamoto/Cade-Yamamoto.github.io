@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/kali.png
+image: images/jiffy.PNG
 title: Jiffy Jobs
 permalink: projects/kali
 # All dates must be YYYY-MM-DD format!
@@ -13,7 +13,7 @@ labels:
 summary: Jiffy Jobs Web Application
 ---
 
-<img class="ui image" src="{{ site.baseurl }}/images/kali.png">
+<img class="ui image" src="{{ site.baseurl }}/images/jiffy.PNG">
 
 For my final 314 project, my team and I developed a web application called Jiffy Jobs. The purpose of the website is to help connect students and companies at UH Manoa. The website allows users to create an account as a student or company, edit their profile, and have their company/student profile listed on a dashboard. Companies and students can also rate each other based on internship/job experience.
 

@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: images/jiffy.PNG
+image: images/jiffysmall.PNG
 title: Jiffy Jobs
 permalink: projects/kali
 # All dates must be YYYY-MM-DD format!

@@ -3,7 +3,7 @@ layout: project
 type: project
 image: images/jiffysmall.PNG
 title: Jiffy Jobs
-permalink: projects/kali
+permalink: projects/jiffyjobs
 # All dates must be YYYY-MM-DD format!
 date: 2016-12-09
 labels:

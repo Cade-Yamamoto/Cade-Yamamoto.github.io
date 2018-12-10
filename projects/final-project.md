@@ -23,4 +23,4 @@ Although the project did not include all of the features we hoped to have due to
 
 
 
-Project website: <a href="https://jiffy-jobs.github.io/"/>
+Project website: <a href="https://jiffy-jobs.github.io/">Link</a>
